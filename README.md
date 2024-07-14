@@ -3,6 +3,8 @@
 ## Project Description
 A single-page web application for tracking and analysing multiple users' reported win/loss data updated across all deviced in real-time. In order to improve my web development skills and comfortability, I developed this application using the Test-Driven Development approach as an MVP for a larger project.
 
+[See Demo section](#demo)
+
 ## Technologies
 - **Vite:** Used as the build tool for frontend develoment due to its hot reloading development server and its efficient build process.
 - **TailwindCSS:** Used for quickly styling the application. Used alongside Vite and React, TailwindCSS provided a simple and quick development experience.
@@ -16,8 +18,8 @@ A single-page web application for tracking and analysing multiple users' reporte
 
 I really had a blast working with Vite and TailwindCSS in this project and plan to leverage this tech stack for future personal projects. I also found React Router surprisingly intuitive, and I am keen to further hone my skills with it.
 
-
 ## Demo
+<a name="demo"></a>
 **[https://athena-tracker.vercel.app/](https://athena-tracker.vercel.app/)**
 
 If you do not wish to register, feel free to use the guest credentials below:
