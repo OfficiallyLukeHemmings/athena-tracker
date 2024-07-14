@@ -12,7 +12,7 @@ A single-page web application for tracking and analysing multiple users' reporte
 - **TypeScript:** Used to improve my proficiency with TypeScript, particularly when working with React applications. Improved code maintainability and quality.
 - **React:** Used to provide the interactivity in the application and communication with Firebase's real-time database. Also allowed for development and styling of the website using a component-based approach.
 - **React Router:** Used for managing navigation and routing within the single-page application, enhancing user experience.
-- **Chart.jS:** Used for presenting charts for analysing game results, providing appealing and informative data representations.
+- **Chart.js:** Used for presenting charts for analysing game results, providing appealing and informative data representations.
 - **Firebase:** Used for real-time data storage and handling user authentication, enabling seamless updates across all devices.
 - **Vercel:** Used for easy deployment and hosting of the website with continuous deployment capabilities, facilitating further development.
 
